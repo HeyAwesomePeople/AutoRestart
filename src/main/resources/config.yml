@@ -1,0 +1,6 @@
+# Commands to be run at certain times
+warnings:
+  1:
+    broadcast: '[AutoRestart] Restarting in 5 minutes!'
+    timeLeft: 300
+restarts: 06 12 05 18

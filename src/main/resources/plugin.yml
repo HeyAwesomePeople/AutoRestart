@@ -1,0 +1,6 @@
+name: AutoRestart
+main: me.HeyAwesomePeople.AutoRestart.AutoRestart
+version: 1.0
+commands:
+  autostart:
+    description: Main command
